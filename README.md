@@ -4,18 +4,15 @@ Welcome to the official repository for **Gated Fusion Network (GFN)**, an advanc
 
 ---
 
-#### **Figure 1**: Comparative Visual Results of GFN and Baseline Models
-- **Description:** 
-  - (a) Input image
-  - (b) Output from state-of-the-art baseline models
-  - (c) Enhanced output from GFN.
+#### **Figure 1**: Architecture of the Proposed Model
+- **Description:** Architecture of the proposed underwater image dehazing model, showcasing the Gated Fusion Network (GFN) with Reprogramming Adaptive Transformation Units (RATUs) for context-aware dehazing.
 
-![Comparative visual results](images/img1.png)
+![Architecture of GFN](images/GFN%20(1).png)
 
-#### **Figure 2**: Performance Metrics Comparison
-- **Description:** Comparative analysis of GFN against baseline models based on metrics such as PSNR, SSIM, and UIQM.
+#### **Figure 2**: Comparative Visual Analysis of SOTA Methods
+- **Description:** Comparative visual analysis of state-of-the-art (SOTA) methods for selected images from the KUMP dataset. Left to right columns display the Input image and outputs of models such as UGAN (Fabbri et al., 2018), FUnIEGAN (Islam et al., 2020b), Cycle-GAN (Zhu et al., 2017), PUGAN (Cong et al., 2023), RAUNE-Net (Peng et al., 2024), UT-UIE (Peng et al., 2023b), WaterNet (Li et al., 2019b), UTM-UIE, and our models, including CNN-RATU, GFN-FTU, and GFN.
 
-![Performance metrics comparison](images/img2.png)
+![Comparative visual analysis](images/Fig12.png)
 
 ---
 ## **Overview**
